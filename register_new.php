@@ -77,9 +77,9 @@ footer {
 <section>
   <nav>
     <ul>
-      <li><a href="localhost/myweb/register_.php">สมัคร Run</a></li>
-      <li><a href="localhost/myweb/result.php">ตรวจสอบ BIB</a></li>
-      <li><a href="localhost/myweb/report.php">ดูแผนที่ เส้นทางวิ่ง</a></li>
+      <li><a href="#">สมัคร Run</a></li>
+      <li><a href="#">ตรวจสอบ BIB</a></li>
+      <li><a href="#">ดูแผนที่ เส้นทางวิ่ง</a></li>
     </ul>
   </nav>
 <article>
@@ -178,7 +178,7 @@ footer {
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
 <!-- Latest compiled JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
-<script type="text/javascript"> //ประกาศjavascript 181ถึง192
+<script type="text/javascript"> //ประกาศjavascript 181ถึง198
 $(function(){
      $("#myform1").on("submit",function(){
 		 var form = $(this)[0];
