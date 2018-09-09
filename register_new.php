@@ -77,9 +77,9 @@ footer {
 <section>
   <nav>
     <ul>
-      <li><a href="#">สมัคร Run</a></li>
-      <li><a href="#">ตรวจสอบ BIB</a></li>
-      <li><a href="#">ดูแผนที่ เส้นทางวิ่ง</a></li>
+      <li><a href="localhost/myweb/register_.php">สมัคร Run</a></li>
+      <li><a href="localhost/myweb/result_.php">ตรวจสอบ BIB</a></li>
+      <li><a href="localhost/myweb/report_.php">ดูแผนที่ เส้นทางวิ่ง</a></li>
     </ul>
   </nav>
 <article>
